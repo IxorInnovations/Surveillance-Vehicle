@@ -1,0 +1,13 @@
+Required tools 
+Blender Script in Python
+Arduino Uno
+4 geared motors
+Motor driver
+LiPo battery
+3 servo motor
+USB camera
+Raspberry Pi-4
+SD card 
+Chesis
+Arm made of aluminium
+All terrains wheels
